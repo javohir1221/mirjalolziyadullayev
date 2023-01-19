@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Person
-- 👀 I’m interested in AI and Software Engineering
+- 👀 I’m interested in NASA, AI and Programming
 - 🌱 I’m currently learning Programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/trashedsmile
