@@ -2,4 +2,4 @@
 - 👀 I’m interested in NASA, AI and Programming
 - 🌱 I’m currently learning Programming languages
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/trashedsmile
+- 📫 Telegram profile https://t.me/trashedsmile
