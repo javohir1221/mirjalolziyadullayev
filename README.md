@@ -7,8 +7,6 @@
 
 - 📫 Telegram profile [t.me/trashedsmile](t.me/trashedsmile)
 
-- 📫 Twitter profile [twitter.com/trashedsmile](twitter.com/trashedsmile)
-
 - 💬 Ask me about **C, Golang, AI Programming**
 
 - 📫 How to reach me **trashedsmiles@gmail.com**
