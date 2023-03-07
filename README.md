@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Person</h1>
-<h3 align="center">Beginner Programmer</h3>
+<h3 align="center">At the moment I'm Beginner Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trashedsmile&label=Profile%20views&color=40e0d0&style=plastic" alt="trashedsmile" /> </p>
 
