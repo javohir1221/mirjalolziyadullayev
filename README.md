@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trashedsmile&label=Profile%20views&color=40e0d0&style=plastic" alt="trashedsmile" /> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C language, Programming fundamentals at University of California, Santa Cruz**
 
 - 📫 Telegram profile [t.me/trashedsmile](t.me/trashedsmile)
 
