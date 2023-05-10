@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **C language, Programming fundamentals, and Algorithms**
 
-- 📫 Telegram profile [t.me/trashedsmile](t.me/trashedsmile)
-
 - 💬 Ask me about **C, Golang, AI Programming**
+
+- 📫 Telegram profile [t.me/trashedsmile](t.me/trashedsmile)
 
 - 📫 How to reach me **trashedsmiles@gmail.com**
 
