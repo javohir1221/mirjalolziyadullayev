@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **C, Golang, AI Programming**
 
-- 📫 Telegram profile [t.me/trashedsmile](t.me/trashedsmile)
+- 📫 Telegram profile [t.me/trashedsmile](https://t.me/trashedsmile)
 
 - 📫 How to reach me **trashedsmiles@gmail.com**
 
