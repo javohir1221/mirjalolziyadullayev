@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirjalol, but you can call me just Person</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trashedsmile&label=Profile%20views&color=40e0d0&style=plastic" alt="trashedsmile" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=trashedsmile&label=Profile%20views&color=40e0d0&style=plastic" alt="trashedsmile" /> </p> -->
 
 - 🌱 I’m currently learning **C language, Programming fundamentals, and Algorithms**
 
