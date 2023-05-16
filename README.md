@@ -8,7 +8,7 @@
 
 - 📫 Telegram profile [t.me/trashedsmile](https://t.me/trashedsmile)
 
-- 📫 How to reach me **trashedsmiles@gmail.com**
+- 📫 How to reach me **trashedsmile@gmail.com** or **trashedsmiles@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
