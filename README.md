@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **C language, Programming fundamentals, and Algorithms**
 
-- 📫 Telegram profile [t.me/trashedsmile](https://t.me/trashedsmile)
-
 - 📫 How to reach me **trashedsmile@gmail.com** or **trashedsmiles@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
