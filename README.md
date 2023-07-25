@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=trashedsmile&label=Profile%20views&color=40e0d0&style=plastic" alt="trashedsmile" /> </p> -->
 
-- 🌱 I’m currently learning **Computer Science, Programming fundamentals, Math for programming and Algorithms**
+- 🌱 I’m currently learning **Computer Science, Assembly for Intel 8086, Math for programming**
 
 - 📫 How to reach me **trashedsmile@gmail.com** or **trashedsmiles@gmail.com**
 
