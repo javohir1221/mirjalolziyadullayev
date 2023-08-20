@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Mirjalol, my last name is Ziyadullayev,<br> but you can call me just Person.</h1>
+<h1 align="center">Hi 👋, My name is Mirjalol<br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=trashedsmile&label=Profile%20views&color=40e0d0&style=plastic" alt="trashedsmile" /> </p> -->
 
