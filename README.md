@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Mirjalol<br>
+<h1 align="center">Hi 👋, My name is Mirjalol Ziyadullayev<br> </h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=trashedsmile&label=Profile%20views&color=40e0d0&style=plastic" alt="trashedsmile" /> </p> -->
 
