@@ -1,4 +1,4 @@
-<h4> Hey there! </h4>
+<h4>Hey there!</h4>
 
 I'm [Mirjalol Ziyadullayev](https://mirjalolziyadullayev.github.io/Person-s-Blog/),I'm a Beginner Back-End developer, I'm learnig Golang for Back-End development, <br/> I'm a student at the Haad LC in Tashkent, Uzbekistan.
 
