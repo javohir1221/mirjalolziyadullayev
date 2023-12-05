@@ -1,6 +1,6 @@
 <h4>Hey there!</h4>
 
-I'm [Mirjalol Ziyadullayev](https://mirjalolziyadullayev.github.io/Person-s-Blog/),I'm Junior Back-End developer, I'm learnig Golang for Back-End development, <br/> I'm a Golang Mentor at the Haad LC in Tashkent, Uzbekistan.
+I'm [Mirjalol Ziyadullayev](https://mirjalolziyadullayev.github.io/Person-s-Blog/),I'm Junior Back-End developer, I'm learnig .NET for Back-End development, <br/> I'm a Golang Mentor at the Haad LC in Tashkent, Uzbekistan.
 
 <!-- ---
  
