@@ -1,6 +1,6 @@
 <h4>Hey there!</h4>
 
-My name is [Mirjalol Ziyadullayev](https://mirjalolziyadullayev.github.io/Person-s-Blog/),I'm .NET Software Engineer, Golang Back-End Mentor, <br/> I'm a Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.
+My name is [Mirjalol Ziyadullayev](https://mirjalolziyadullayev.github.io/Person-s-Blog/),I'm .NET developer, Golang Back-End Mentor, <br/> I'm a Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.
 
 <!-- ---
  
